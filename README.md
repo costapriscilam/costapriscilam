@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Priscila!" alt="Typing SVG" /></a>
 
 - Pronouns: she/her
-- Currently learning: Front-end (CSS, Javascript)
+- Currently learning: Python, Web scraping, Data Science
 - Fun fact: I had worked as a marketing analyst for ten years. I decided to pause my carrer to learn coding and see how can these two fields integrate.
 
 <h2>Let's get in touch:  </h2>
